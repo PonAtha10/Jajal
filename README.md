@@ -2,7 +2,7 @@
 Web Bucin V2 khusus buat orang tercinta &amp; tersayang.
 
 # Demo Site
- <a href="https://github.com/PonAtha10/Jajal/">https://github.com/PonAtha10/Jajal/</a>
+ <a href="https://github.io/PonAtha10/Jajal/">https://github.io/PonAtha10/Jajal/</a>
 
 # Let's connect with me!
 <p>
