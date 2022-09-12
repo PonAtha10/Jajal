@@ -2,7 +2,7 @@
 Web Bucin V2 khusus buat orang tercinta &amp; tersayang.
 
 # Demo Site
- <a href="https://wafarifki.github.io/WebBucin-V2/">https://wafarifki.github.io/WebBucin-V2/</a>
+ <a href="[https://wafarifki.github.io/WebBucin-V2](https://github.com/PonAtha10/Jajal)">[https://wafarifki.github.io/WebBucin-V2](https://github.com/PonAtha10/Jajal)/</a>
 
 # Let's connect with me!
 <p>
