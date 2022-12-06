@@ -2,7 +2,7 @@
 Web Bucin V2 khusus buat orang tercinta &amp; tersayang.
 
 # Demo Site
- <a href="https://ponatha10.github.io/Jajal/">SELAMAT ULANG TAHUN SAYANG</a>
+ <a href="https://ponatha10.github.io/Jajal/">SELAMAAT ULANG TAHUN SAYANG</a>
 
 # Let's connect with me!
 <p>
